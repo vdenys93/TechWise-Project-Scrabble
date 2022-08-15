@@ -1,0 +1,9 @@
+
+
+
+BugS:
+
+  Player 2 with 3 player game has blank tiles 
+  occasionally after drawing tiles, removing them from the board, etc.
+  
+  
